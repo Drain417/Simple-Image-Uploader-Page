@@ -1,0 +1,1 @@
+import{Q as e}from"./Cp_pbtWK.js";const s=e("theme",{state:()=>({isDarkMode:!1}),actions:{toggleDarkMode(){console.log("Toggling dark mode",this.isDarkMode),this.isDarkMode=!this.isDarkMode}}});export{s as u};
